@@ -1,0 +1,18 @@
+Car
+-----------------
+
+- customerName : String 
+- weightCapacity :double 
+- totalhours : double
+
+--------------------
++Car()
++Car(String customerName, double weightCapacity, doubletotalhours)
++getCustomerName(): String
++ getYearOfModel() : double
++setCustomerName(String customerName) : void
++ setYearOfModel(int yearOfModel) : void
++getTotalhours(): double
++setTotalhours(double totalhours) : void
+
+---------------------

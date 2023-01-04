@@ -1,0 +1,16 @@
+Rectangle
+--------------------
+- heigth : double
+- width : double
+---------------------
++ Rectangle()
++ Rectangle (width , height):double
++ setHeight (height):void
++ gettHeight ():double
++ setWidth (width):void
++ getWidth():double
++ printWidth():double
++ printHeight(): double
++ getArea():double
++ getPerimeter():double
+---------------------

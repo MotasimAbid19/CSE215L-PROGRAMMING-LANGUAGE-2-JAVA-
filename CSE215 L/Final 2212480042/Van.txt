@@ -1,0 +1,14 @@
+Van
+--------------------
+- customerName : String 
+- weightCapacity : double 
+- totalhours : double
+---------------------------
++Van()
++Van(String customerName, double weightCapacity, doubletotalhours)
++getCustomerName(): String
++ getWeightCapacity() : double
++setCustomerName(String customerName) : void
++setWeightCapacity(double weightCapacity) : void
++getTotalhours(): double
++setTotalhours(double totalhours) : void
